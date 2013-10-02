@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: hive-exec-0.10.0.jar joda-time-2.3.jar hadoop-core-1.1.2.j
+ ar joda-convert-1.5.jar scala-library.jar scala-swing.jar scala-dbc.j
+ ar scala-compiler.jar scala-library.jar
+
